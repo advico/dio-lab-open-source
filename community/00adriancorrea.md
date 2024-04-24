@@ -6,7 +6,7 @@ Olá, me chamo Adrian, sou estudante do 3° semestre do curso de ADS. Estou foca
     <h1>Meus Links</h1>
     <ul>
         <li><a href="https://github.com/advico"><img  
-        src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="GitHub"></a></li>
+        src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="GitHub"></a></li>
         <li><a href="https://www.linkedin.com/in/adrian-villan-506083218/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIcxyZmSZf09wIwDxAoPepyQhCAxWxRu-fsN0sCtJpg&s" alt="LinkedIn"></a></li>
     </ul>
 </body>
